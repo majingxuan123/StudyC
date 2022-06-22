@@ -1,9 +1,9 @@
 # Compiled class file
 *.class
-
-.idea/
-rebel.xml
-rebel-remote.xml
+*.DS_Store
+*.idea/
+*rebel.xml
+*rebel-remote.xml
 *.iml
 target/
 # Log file
