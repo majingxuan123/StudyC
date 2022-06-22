@@ -1,11 +1,19 @@
 # Compiled class file
+
+#xcode
+StudyC.xcodeproj
+
+#java
 *.class
-*.DS_Store
-*.idea/
 *rebel.xml
 *rebel-remote.xml
+
+#macos
+*.DS_Store
+*.idea/
 *.iml
 target/
+
 # Log file
 *.log.gz
 *.log
