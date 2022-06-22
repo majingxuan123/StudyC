@@ -8,11 +8,12 @@ StudyC.xcodeproj
 *rebel.xml
 *rebel-remote.xml
 
-#macos
+#ide
 *.DS_Store
 *.idea/
 *.iml
 target/
+cmake-build-debug
 
 # Log file
 *.log.gz
