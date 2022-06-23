@@ -6,9 +6,14 @@
 //
 
 #include <stdio.h>
+#include "../day01/SystemStu.c"
+
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
+
     printf("Hello, World!\n");
+
+    testSys();
+
     return 0;
 }
