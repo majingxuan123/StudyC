@@ -11,9 +11,9 @@
 
 int main(int argc, const char * argv[]) {
 
-    printf("Hello, World!\n");
+    testCalc();
 
-    testSys();
 
+    system("pause");
     return 0;
 }
