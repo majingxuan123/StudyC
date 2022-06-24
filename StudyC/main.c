@@ -11,9 +11,7 @@
 
 int main(int argc, const char * argv[]) {
 
-    testCalc();
-
-
-    system("pause");
+    testPrint();
+//    system("pause");
     return 0;
 }
