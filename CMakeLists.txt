@@ -4,4 +4,4 @@ project(StudyC C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(StudyC
-        StudyC/main.c )
+        StudyC/main.c day01/Test.c)
